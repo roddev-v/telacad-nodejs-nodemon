@@ -2,6 +2,8 @@
 
 ## Acest exercitiu face parte din cursul NodeJS Fundamentals @ Telecom Academy
 
+Pentru a rula acest cod aveti nevoie de un Terminal/cmd si de urmatorul set de comenzi:
+
 ## Clonare repository
 
 ```bash
